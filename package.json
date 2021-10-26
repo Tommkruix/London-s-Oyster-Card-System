@@ -1,0 +1,15 @@
+{
+  "name": "alefeducation",
+  "version": "1.0.0",
+  "description": "Front End Developer",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "Ajiferuke Tomiwa",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.0"
+  }
+}
